@@ -5,7 +5,7 @@ export default defineNuxtRouteMiddleware(async () => {
     if (!token || useUserStore().user) return;
     const user: TUser = {
         email: 'j124j124jasjf@mail.ru',
-        name: 'Bogdn',
+        name: 'test',
         id: 1,
     }
     await useUserStore().setUserInfo(user);

@@ -3,7 +3,7 @@
 </script>
 <template>
   <div>
-    def la
+    <SharedHeader/>
     <NuxtPage class="flex-1 w-full"/>
   </div>
 </template>
