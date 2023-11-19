@@ -1,3 +1,5 @@
+#Nuxt 3.8.1 template, include Nuxt UI(based on tailiwnd so tailwind include), pinia, validation with yup, simple login system
+
 ## Setup
 
 Make sure to install the dependencies:
